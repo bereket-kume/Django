@@ -1,4 +1,4 @@
-                                  **Django Marketplace**
+  ## **Django Marketplace**
 Django Marketplace is a web application built with Django that connects sellers and buyers, allowing users to post items for sale, search for items, and communicate with sellers.
 
                                       **Features**
@@ -14,6 +14,6 @@ Tailwind CSS: Styling framework used for frontend design and layout.
 
 
 
-**Acknowledgments**
+                **Acknowledgments**
 Django - The web framework used in this project.
 Tailwind CSS - The CSS framework used for styling.
