@@ -8,7 +8,7 @@ Item Search: Buyers can search for specific items using keywords, categories, or
 Item Details: Users can view detailed information about an item, including the seller's contact information.<br>
 Item Management: Sellers can edit or delete the items they have posted.<br>
 Chat: Users have the ability to chat with sellers directly through the platform, facilitating communication during the buying process.<br>
-  ## **Technologies Used
+  ## **Technologies Used**
 Django: Python web framework used for building the marketplace.<br>
 Tailwind CSS: Styling framework used for frontend design and layout.<br>
 
