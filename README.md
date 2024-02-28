@@ -14,6 +14,6 @@ Tailwind CSS: Styling framework used for frontend design and layout.<br>
 
 
 
-   ## **Acknowledgments**
+  ## **Acknowledgments**
 Django - The web framework used in this project.<br>
 Tailwind CSS - The CSS framework used for styling.
